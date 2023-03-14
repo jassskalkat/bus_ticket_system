@@ -1,4 +1,4 @@
-# The Bus Ticket System
+# Bus Ticket System
 
 This project is a C++ code written in DEV C++ IDE using the basics concepts of OOPs. Through this code the user can get the bus ticket invoice or the travel tickets history by selecting appropriate option and providing the following information: 
 
